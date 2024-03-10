@@ -1,0 +1,9 @@
+2024-03-10T15:37:31.122Z - info: Website generation started at 11:37:31 PM
+2024-03-10T15:37:31.155Z - info: Building assets...
+2024-03-10T15:37:31.162Z - info: Assets built
+2024-03-10T15:37:31.162Z - info: Generating pages...
+2024-03-10T15:37:31.279Z - info: Pages built
+2024-03-10T15:37:31.370Z - info: Site data built
+2024-03-10T15:37:31.370Z - info: Website generation complete! Total build time: 0.285s
+2024-03-10T15:37:31.378Z - info: Serving "/Users/wangjingting/init-portfolio-1/_site" at http://127.0.0.1:8080
+2024-03-10T15:37:31.378Z - info: Press CTRL+C to stop ...
