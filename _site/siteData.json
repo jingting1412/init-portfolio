@@ -7,17 +7,10 @@
       "headings": {
         "about-me": "About me",
         "skills": "Skills",
-        "skills-2": "Skills",
         "experience": "Experience",
-        "experience-2": "Experience",
-        "head": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD",
         "projects": "Projects",
         "project-1": "Project 1",
-        "project-1-2": "Project 1",
-        "name-of-project": "Name of project",
-        "project-2": "Project 2",
-        "project-2-2": "Project 2",
-        "name-of-project-2": "Name of project"
+        "project-2": "Project 2"
       },
       "headingKeywords": {}
     }
