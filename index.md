@@ -1,5 +1,9 @@
 <frontmatter>
+<<<<<<< HEAD
   title: Portfolio
+=======
+  title: Home Page
+>>>>>>> 12619abcd7097012f6a45238ef909d2d651e5c3f
   layout: default.md
 </frontmatter>
 
@@ -8,7 +12,11 @@
 <div class="bg-dark text-white px-2 py-5 mb-4">
   <div class="container">
     <h1 class="display-5 no-index"><md>:wave:</md> Hello!<br>I'm {{ name }}</h1>
+<<<<<<< HEAD
     <p class="lead">Welcome to my portfolio!</p>
+=======
+    <p class="lead">Welcome to my porfolio!</p>
+>>>>>>> 12619abcd7097012f6a45238ef909d2d651e5c3f
   </div>
 </div>
 
@@ -20,6 +28,7 @@
 
 ## About me
 
+<<<<<<< HEAD
 <div class="card mb-3">
   <div class="row" >
     <div class="col-3">
@@ -32,6 +41,15 @@
     </div>
   </div>
 </div>
+=======
+<p>
+  This is where you can add a picture of yourself and a brief introduction. This can be a good place to 
+  use <tooltip content="Add more information here" placement="top">tooltips</tooltip>, or 
+  <md>[add relevant links](https://markbind.org/userGuide/formattingContents.html#links)</md>.
+</p>
+
+<img src='./contents/assests/default_profile_pic.png' alt='default-profile-pic'/>
+>>>>>>> 12619abcd7097012f6a45238ef909d2d651e5c3f
 
 ---
 
