@@ -9,9 +9,8 @@
         "skills": "Skills",
         "experience": "Experience",
         "projects": "Projects",
-        "example-project-ip-for-cs2103": "Example project: iP for CS2103",
-        "project-2": "Project 2",
-        "other-projects": "Other projects"
+        "project-1": "Project 1",
+        "project-2": "Project 2"
       },
       "headingKeywords": {}
     }
