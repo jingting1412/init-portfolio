@@ -5,15 +5,29 @@
 
 <br>
 
-<div class="bg-dark text-white px-2 py-5 mb-4">
+<div class="bg-light text-black px-2 py-5 mb-4">
   <div class="container">
     <h1 class="display-5 no-index"><md>:wave:</md> Hello!<br>I'm {{ name }}</h1>
     <p class="lead">Welcome to my portfolio!</p>
+    <span style="margin-right:10px;">
+      <a href="https://github.com/MarkBind/markbind" target="_blank" class="icon">
+        <i class="fa-brands fa-github fa-2xl"></i>
+      </a>
+    </span>
+    <span style="margin-right:10px;">
+      <a href="https://www.linkedin.com/school/national-university-of-singapore/" target="_blank" class="icon">
+        <i class="fa-brands fa-linkedin fa-2xl"></i>
+      </a>
+    </span>
   </div>
 </div>
 
 <box type="tip">
   Want to change the theme? Explore more themes and other components offered by MarkBind in our <a href="https://markbind.org/userGuide/authoringContents.html" target="_blank">user guide here</a>
+</box>
+
+<box type="tip" header="Guide to deploying this site">
+    <md>MarkBind makes it easy to deploy this site to Github Pages using the `markbind deploy` command. To allow `http://[username].github.io` to go straight to this portfolio, it is best to set your repository name as `[username.github.io]` Read more about [deploying the site here](https://markbind.org/userGuide/deployingTheSite.html#deploying-to-github-pages)</md>
 </box>
 
 ---
@@ -44,5 +58,7 @@
 ---
 
 <include src="contents/projects.md"/>
+
+---
 
 
